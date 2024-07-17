@@ -1,0 +1,32 @@
+[
+    {
+        "rank": 1,
+        "name": "Indian Institute of Technology, Roorkee",
+        "city": "Roorkee",
+        "state": "Uttarakhand"
+    },
+    {
+        "rank": 2,
+        "name": "Banaras Hindu University",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 3,
+        "name": "Punjab Agricultural University",
+        "city": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "rank": 4,
+        "name": "Mizoram University",
+        "city": "Aizawl",
+        "state": "Mizoram"
+    },
+    {
+        "rank": 5,
+        "name": "Tamil Nadu Agricultural University",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu"
+    }
+]

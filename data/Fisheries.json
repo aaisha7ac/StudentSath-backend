@@ -1,0 +1,146 @@
+[
+    {
+        "rank": 1,
+        "name": "Alagappa University",
+        "city": "Karaikudi",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 2,
+        "name": "Sri Ramaswamy Memorial University",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 3,
+        "name": "Aligarh Muslim University",
+        "city": "Aligarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 4,
+        "name": "VIT University",
+        "city": "Vellore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 5,
+        "name": "University of Burdwan",
+        "city": "Burdwan",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 6,
+        "name": "Central Agricultural University",
+        "city": "Imphal",
+        "state": "Manipur"
+    },
+    {
+        "rank": 7,
+        "name": "Bharathidasan University",
+        "city": "Tiruchirappalli",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 8,
+        "name": "Indian Institute of Science",
+        "city": "Bengaluru",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 9,
+        "name": "Indian Institute of Technology, Kharagpur",
+        "city": "Kharagpur",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 10,
+        "name": "University of Kashmir",
+        "city": "Srinagar",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "rank": 11,
+        "name": "Cochin University of Science and Technology",
+        "city": "Kochi",
+        "state": "Kerala"
+    },
+    {
+        "rank": 12,
+        "name": "Pondicherry University",
+        "city": "Puducherry",
+        "state": "Puducherry"
+    },
+    {
+        "rank": 13,
+        "name": "University of Delhi",
+        "city": "Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 14,
+        "name": "University of Pune",
+        "city": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 15,
+        "name": "University of Madras",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 16,
+        "name": "Indian Institute of Technology, Bombay",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 17,
+        "name": "Annamalai University",
+        "city": "Chidambaram",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 18,
+        "name": "University of Calcutta",
+        "city": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 19,
+        "name": "Academy of Scientific and Innovative Research",
+        "city": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 20,
+        "name": "University of Kerala",
+        "city": "Thiruvananthapuram",
+        "state": "Kerala"
+    },
+    {
+        "rank": 21,
+        "name": "Goa University",
+        "city": "Taleigao Plateau",
+        "state": "Goa"
+    },
+    {
+        "rank": 22,
+        "name": "Banaras Hindu University",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 23,
+        "name": "Andhra University",
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    },
+    {
+        "rank": 24,
+        "name": "Sathyabama Institute of Science and Technology",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    }
+]

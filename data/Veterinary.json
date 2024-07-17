@@ -1,0 +1,92 @@
+[
+    {
+        "rank": 1,
+        "name": "Indian Veterinary Research Institute",
+        "city": "Bareilly",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 2,
+        "name": "Postgraduate Institute of Medical Education and Research",
+        "city": "Chandigarh",
+        "state": "Punjab"
+    },
+    {
+        "rank": 3,
+        "name": "Tamil Nadu Veterinary and Animal Sciences University",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 4,
+        "name": "Guru Angad Dev Veterinary and Animal Sciences University",
+        "city": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "rank": 5,
+        "name": "Govind Ballabh Pant University of Agriculture and Technology",
+        "city": "Pantnagar",
+        "state": "Uttarakhand"
+    },
+    {
+        "rank": 6,
+        "name": "Sher-e-Kashmir University of Agricultural Sciences and Technology-Srinagar",
+        "city": "Srinagar",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "rank": 7,
+        "name": "Lala Lajpat Rai University of Veterinary and Animal Sciences",
+        "city": "Hisar",
+        "state": "Haryana"
+    },
+    {
+        "rank": 8,
+        "name": "Banaras Hindu University",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 9,
+        "name": "Anand Agricultural University",
+        "city": "Anand",
+        "state": "Gujarat"
+    },
+    {
+        "rank": 10,
+        "name": "Assam Agricultural University",
+        "city": "Jorhat",
+        "state": "Assam"
+    },
+    {
+        "rank": 11,
+        "name": "Punjab Agricultural University",
+        "city": "Ludhiana",
+        "state": "Punjab"
+    },
+    {
+        "rank": 12,
+        "name": "Amity University",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 13,
+        "name": "Central Agricultural University",
+        "city": "Imphal",
+        "state": "Manipur"
+    },
+    {
+        "rank": 14,
+        "name": "Sher-e-Kashmir University of Agricultural Sciences and Technology-Jammu",
+        "city": "Jammu",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "rank": 15,
+        "name": "Orissa University of Agriculture and Technology",
+        "city": "Bhubaneswar",
+        "state": "Odisha"
+    }
+]

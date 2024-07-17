@@ -1,0 +1,416 @@
+[
+    {
+        "rank": 1,
+        "name": "Indian Institute of Technology, Kharagpur",
+        "city": "Kharagpur",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 2,
+        "name": "University of Delhi",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 3,
+        "name": "Indian Institute of Technology, Bombay",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 4,
+        "name": "Indian Institute of Technology, Delhi",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 5,
+        "name": "Thapar Institute of Engineering and Technology",
+        "city": "Patiala",
+        "state": "Punjab"
+    },
+    {
+        "rank": 6,
+        "name": "Indian Institute of Science",
+        "city": "Bengaluru",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 7,
+        "name": "Indian Institute of Technology, Roorkee",
+        "city": "Roorkee",
+        "state": "Uttarakhand"
+    },
+    {
+        "rank": 8,
+        "name": "VIT University",
+        "city": "Vellore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 9,
+        "name": "Jawaharlal Nehru University",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 10,
+        "name": "Delhi Technological University",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 11,
+        "name": "Chitkara University, Punjab",
+        "city": "Rajpura",
+        "state": "Punjab"
+    },
+    {
+        "rank": 12,
+        "name": "Manipal University",
+        "city": "Manipal",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 13,
+        "name": "Anna University",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 14,
+        "name": "Amity University",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 15,
+        "name": "Aligarh Muslim University",
+        "city": "Aligarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 16,
+        "name": "Symbiosis International University",
+        "city": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 17,
+        "name": "Amrita University",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 18,
+        "name": "Indian Institute of Technology, Madras",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 19,
+        "name": "Birla Institute of Technology and Science",
+        "city": "Pilani",
+        "state": "Rajasthan"
+    },
+    {
+        "rank": 20,
+        "name": "Guru Gobind Singh Indraprastha University",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 21,
+        "name": "Banaras Hindu University",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 22,
+        "name": "Nirma University",
+        "city": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "rank": 23,
+        "name": "GLA University",
+        "city": "Mathura",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 24,
+        "name": "Indian Institute of Technology",
+        "city": "Indore",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "rank": 25,
+        "name": "Motilal Nehru National Institute of Technology",
+        "city": "Prayagraj",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 26,
+        "name": "International Institute of Information Technology, Hyderabad",
+        "city": "Hyderabad",
+        "state": "Telangana"
+    },
+    {
+        "rank": 27,
+        "name": "Visvesvaraya National Institute of Technology",
+        "city": "Nagpur",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 28,
+        "name": "National Institute of Technology Rourkela",
+        "city": "Rourkela",
+        "state": "Odisha"
+    },
+    {
+        "rank": 29,
+        "name": "Jamia Millia Islamia Central University",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 30,
+        "name": "Chitkara Educational Trust",
+        "city": "Rajpura",
+        "state": "Punjab"
+    },
+    {
+        "rank": 31,
+        "name": "Mizoram University",
+        "city": "Aizawl",
+        "state": "Mizoram"
+    },
+    {
+        "rank": 32,
+        "name": "Indraprastha Institute of Information Technology, Delhi",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 33,
+        "name": "Indian Institute of Technology, Varanasi",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 34,
+        "name": "National Institute of Technology Karnataka",
+        "city": "Surathkal",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 35,
+        "name": "Sri Ramaswamy Memorial University",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 36,
+        "name": "Academy of Scientific and Innovative Research",
+        "city": "Ghaziabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 37,
+        "name": "Guru Nanak Dev University",
+        "city": "Amritsar",
+        "state": "Punjab"
+    },
+    {
+        "rank": 38,
+        "name": "Shri Mata Vaishno Devi University",
+        "city": "Katra",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "rank": 39,
+        "name": "Indian Institute of Technology Guwahati",
+        "city": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "rank": 40,
+        "name": "NMIMS University",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 41,
+        "name": "All India Institute of Medical Sciences",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 42,
+        "name": "Vidyasagar University",
+        "city": "Midnapore",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 43,
+        "name": "Lovely Professional University",
+        "city": "Phagwara",
+        "state": "Punjab"
+    },
+    {
+        "rank": 44,
+        "name": "Malaviya National Institute of Technology",
+        "city": "Jaipur",
+        "state": "Rajasthan"
+    },
+    {
+        "rank": 45,
+        "name": "Maharshi Dayanand University",
+        "city": "Rohtak",
+        "state": "Haryana"
+    },
+    {
+        "rank": 46,
+        "name": "University of Kashmir",
+        "city": "Srinagar",
+        "state": "Jammu and Kashmir"
+    },
+    {
+        "rank": 47,
+        "name": "Shanmugha Arts, Science, Technology and Research Academy",
+        "city": "Thanjavur",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 48,
+        "name": "Postgraduate Institute of Medical Education and Research",
+        "city": "Chandigarh",
+        "state": "Punjab"
+    },
+    {
+        "rank": 49,
+        "name": "Indian Institute of Technology, Kanpur",
+        "city": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 50,
+        "name": "National Institute of Technology, Patna",
+        "city": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "rank": 51,
+        "name": "Indian Institute of Technology Patna",
+        "city": "Patna",
+        "state": "Bihar"
+    },
+    {
+        "rank": 52,
+        "name": "Kalasalingam Academy of Research and Education",
+        "city": "Virudhunagar",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 53,
+        "name": "University of Petroleum and Energy Studies",
+        "city": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "rank": 54,
+        "name": "KIIT University",
+        "city": "Bhubaneswar",
+        "state": "Odisha"
+    },
+    {
+        "rank": 55,
+        "name": "Indian Institute of Management, Ahmedabad",
+        "city": "Ahmedabad",
+        "state": "Gujarat"
+    },
+    {
+        "rank": 56,
+        "name": "Panjab University",
+        "city": "Chandigarh",
+        "state": "Punjab"
+    },
+    {
+        "rank": 57,
+        "name": "Indian Institute of Technology, Hyderabad",
+        "city": "Hyderabad",
+        "state": "Telangana"
+    },
+    {
+        "rank": 58,
+        "name": "Chandigarh University",
+        "city": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "rank": 59,
+        "name": "Sardar Vallabhbhai National Institute of Technology",
+        "city": "Surat",
+        "state": "Gujarat"
+    },
+    {
+        "rank": 60,
+        "name": "Maulana Azad National Institute of Technology",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh"
+    },
+    {
+        "rank": 61,
+        "name": "Birla Institute of Technology",
+        "city": "Ranchi",
+        "state": "Jharkhand"
+    },
+    {
+        "rank": 62,
+        "name": "University of Gour Banga",
+        "city": "Malda",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 63,
+        "name": "International Institute for Population Sciences",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 64,
+        "name": "National Institute of Technology Warangal",
+        "city": "Warangal",
+        "state": "Telangana"
+    },
+    {
+        "rank": 65,
+        "name": "Jadavpur University",
+        "city": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 66,
+        "name": "National Institute of Technology, Tiruchirappalli",
+        "city": "Tiruchirappalli",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 67,
+        "name": "Indian Statistical Institute",
+        "city": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 68,
+        "name": "University of Burdwan",
+        "city": "Bardhaman",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 69,
+        "name": "KL University",
+        "city": "Vijayawada",
+        "state": "Andhra Pradesh"
+    }
+]

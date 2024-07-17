@@ -1,0 +1,224 @@
+[
+    {
+        "rank": 1,
+        "name": "University of Delhi",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 2,
+        "name": "VIT University",
+        "city": "Vellore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 3,
+        "name": "All India Institute of Medical Sciences",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 4,
+        "name": "Manipal University",
+        "city": "Manipal",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 5,
+        "name": "Aligarh Muslim University",
+        "city": "Aligarh",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 6,
+        "name": "Indian Institute of Technology, Bombay",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 7,
+        "name": "Chitkara University, Punjab",
+        "city": "Rajpura",
+        "state": "Punjab"
+    },
+    {
+        "rank": 8,
+        "name": "Amrita University",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 9,
+        "name": "Amity University",
+        "city": "Noida",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 10,
+        "name": "Indian Institute of Technology, Delhi",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 11,
+        "name": "Indian Institute of Technology, Kharagpur",
+        "city": "Kharagpur",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 12,
+        "name": "Kalasalingam Academy of Research and Education",
+        "city": "Virudhunagar",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 13,
+        "name": "NMIMS University",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 14,
+        "name": "Chitkara Educational Trust",
+        "city": "Rajpura",
+        "state": "Punjab"
+    },
+    {
+        "rank": 15,
+        "name": "Symbiosis International University",
+        "city": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 16,
+        "name": "Indian Institute of Science",
+        "city": "Bengaluru",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 17,
+        "name": "Indian Institute of Technology, Madras",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 18,
+        "name": "Birla Institute of Technology and Science",
+        "city": "Pilani",
+        "state": "Rajasthan"
+    },
+    {
+        "rank": 19,
+        "name": "University of Petroleum and Energy Studies",
+        "city": "Dehradun",
+        "state": "Uttarakhand"
+    },
+    {
+        "rank": 20,
+        "name": "Lovely Professional University",
+        "city": "Phagwara",
+        "state": "Punjab"
+    },
+    {
+        "rank": 21,
+        "name": "Sri Ramaswamy Memorial University",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 22,
+        "name": "KIIT University",
+        "city": "Bhubaneswar",
+        "state": "Odisha"
+    },
+    {
+        "rank": 23,
+        "name": "Indian Institute of Technology, Kanpur",
+        "city": "Kanpur",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 24,
+        "name": "Christ University",
+        "city": "Bengaluru",
+        "state": "Karnataka"
+    },
+    {
+        "rank": 25,
+        "name": "Jawaharlal Nehru University",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "rank": 26,
+        "name": "Indian Institute of Technology Guwahati",
+        "city": "Guwahati",
+        "state": "Assam"
+    },
+    {
+        "rank": 27,
+        "name": "University of Pune",
+        "city": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 28,
+        "name": "Teerthanker Mahaveer University",
+        "city": "Moradabad",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 29,
+        "name": "University of Calcutta",
+        "city": "Kolkata",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 30,
+        "name": "Tata Institute of Fundamental Research",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "rank": 31,
+        "name": "Thiagarajar College of Engineering",
+        "city": "Madurai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "rank": 32,
+        "name": "Chandigarh University",
+        "city": "Mohali",
+        "state": "Punjab"
+    },
+    {
+        "rank": 33,
+        "name": "Sharda University",
+        "city": "Greater Noida",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 34,
+        "name": "University of Hyderabad",
+        "city": "Hyderabad",
+        "state": "Telangana"
+    },
+    {
+        "rank": 35,
+        "name": "University of Kalyani",
+        "city": "Kalyani",
+        "state": "West Bengal"
+    },
+    {
+        "rank": 36,
+        "name": "Indian Institute of Management Lucknow",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+    },
+    {
+        "rank": 37,
+        "name": "Jaipur National University",
+        "city": "Jaipur",
+        "state": "Rajasthan"
+    }
+]

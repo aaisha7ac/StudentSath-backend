@@ -1,0 +1,903 @@
+[
+    {
+        "name": "Indian Institute of Technology Madras",
+        "city": "Chennai",
+        "rank": 1,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 16 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "One of the premier institutes for engineering education in India."
+    },
+    {
+        "name": "Indian Institute of Science",
+        "city": "Bengaluru",
+        "rank": 2,
+        "state": "Karnataka",
+        "averageplacement": "INR 14 LPA",
+        "fees": "INR 50,000 per annum",
+        "desc": "Renowned for its research and academic excellence."
+    },
+    {
+        "name": "Indian Institute of Technology, Bombay",
+        "city": "Mumbai",
+        "rank": 3,
+        "state": "Maharashtra",
+        "averageplacement": "INR 18 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "One of the oldest and most prestigious engineering institutes in India."
+    },
+    {
+        "name": "Indian Institute of Technology, Delhi",
+        "city": "New Delhi",
+        "rank": 4,
+        "state": "Delhi",
+        "averageplacement": "INR 17 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "Renowned for its world-class faculty and research facilities."
+    },
+    {
+        "name": "Indian Institute of Technology Kanpur",
+        "city": "Kanpur",
+        "rank": 5,
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 15 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "Known for its rigorous academic curriculum and strong industry connections."
+    },
+    {
+        "name": "Indian Institute of Technology, Kharagpur",
+        "city": "Kharagpur",
+        "rank": 6,
+        "state": "West Bengal",
+        "averageplacement": "INR 14.5 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "One of the largest and most diversified IITs in India."
+    },
+    {
+        "name": "Indian Institute of Technology, Roorkee",
+        "city": "Roorkee",
+        "rank": 7,
+        "state": "Uttarakhand",
+        "averageplacement": "INR 14 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "Known for its picturesque campus and strong alumni network."
+    },
+    {
+        "name": "Indian Institute of Technology Guwahati",
+        "city": "Guwahati",
+        "rank": 8,
+        "state": "Assam",
+        "averageplacement": "INR 13.5 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "Located amidst the serene landscapes of Assam, offering quality education."
+    },
+    {
+        "name": "All India Institute of Medical Sciences, Delhi",
+        "city": "New Delhi",
+        "rank": 9,
+        "state": "Delhi",
+        "averageplacement": "Not applicable",
+        "fees": "INR 1,628 per annum",
+        "desc": "A premier medical institute offering top-notch medical education and research."
+    },
+    {
+        "name": "Jawaharlal Nehru University",
+        "city": "New Delhi",
+        "rank": 10,
+        "state": "Delhi",
+        "averageplacement": "INR 6 LPA",
+        "fees": "INR 300 per annum",
+        "desc": "Renowned for its social sciences and humanities programs."
+    },
+    {
+        "name": "Banaras Hindu University",
+        "city": "Varanasi",
+        "rank": 11,
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 6.5 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "One of the largest residential universities in Asia, known for its cultural heritage."
+    },
+    {
+        "name": "Jadavpur University",
+        "city": "Kolkata",
+        "rank": 12,
+        "state": "West Bengal",
+        "averageplacement": "INR 7 LPA",
+        "fees": "INR 2,700 per annum",
+        "desc": "Renowned for its engineering and arts faculties."
+    },
+    {
+        "name": "Jamia Millia Islamia, New Delhi",
+        "city": "New Delhi",
+        "rank": 13,
+        "state": "Delhi",
+        "averageplacement": "INR 5 LPA",
+        "fees": "INR 6,000 per annum",
+        "desc": "A prominent Central University known for its diverse academic programs."
+    },
+    {
+        "name": "Indian Institute of Technology Hyderabad",
+        "city": "Hyderabad",
+        "rank": 14,
+        "state": "Telangana",
+        "averageplacement": "INR 14.2 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "A leading institute for engineering education in South India."
+    },
+    {
+        "name": "Calcutta University",
+        "city": "Kolkata",
+        "rank": 15,
+        "state": "West Bengal",
+        "averageplacement": "INR 5 LPA",
+        "fees": "INR 1,500 per annum",
+        "desc": "One of the oldest universities in India, known for its historical significance."
+    },
+    {
+        "name": "Amrita Vishwa Vidyapeetham",
+        "city": "Coimbatore",
+        "rank": 16,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 6.5 LPA",
+        "fees": "INR 2.6 LPA",
+        "desc": "A deemed university offering a wide range of academic programs."
+    },
+    {
+        "name": "Manipal Academy of Higher Education, Manipal",
+        "city": "Manipal",
+        "rank": 17,
+        "state": "Karnataka",
+        "averageplacement": "INR 7 LPA",
+        "fees": "INR 3.4 LPA",
+        "desc": "A leading private university known for its quality education and vibrant campus life."
+    },
+    {
+        "name": "Vellore Institute of Technology",
+        "city": "Vellore",
+        "rank": 18,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 4.5 LPA",
+        "fees": "INR 1.98 LPA",
+        "desc": "A prestigious institution offering engineering and management programs."
+    },
+    {
+        "name": "Aligarh Muslim University",
+        "city": "Aligarh",
+        "rank": 19,
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 5 LPA",
+        "fees": "INR 20,000 per annum",
+        "desc": "A renowned institution known for its academic excellence and cultural diversity."
+    },
+    {
+        "name": "University of Hyderabad",
+        "city": "Hyderabad",
+        "rank": 20,
+        "state": "Telangana",
+        "averageplacement": "INR 8.5 LPA",
+        "fees": "INR 5,520 per annum",
+        "desc": "A Central University known for its interdisciplinary academic programs."
+    },
+    {
+        "name": "National Institute of Technology, Tiruchirappalli",
+        "city": "Tiruchirappalli",
+        "rank": 21,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 6.5 LPA",
+        "fees": "INR 63,000 per annum",
+        "desc": "One of the top NITs in India, known for its excellent engineering education."
+    },
+    {
+        "name": "Anna University",
+        "city": "Chennai",
+        "rank": 22,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 5.5 LPA",
+        "fees": "INR 20,000 per annum",
+        "desc": "A renowned technical university offering engineering and technology programs."
+    },
+    {
+        "name": "University of Delhi",
+        "city": "Delhi",
+        "rank": 23,
+        "state": "Delhi",
+        "averageplacement": "INR 7 LPA",
+        "fees": "INR 10,000 per annum",
+        "desc": "One of the largest universities in India, known for its academic excellence."
+    },
+    {
+        "name": "Bharathiar University",
+        "city": "Coimbatore",
+        "rank": 24,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 4.5 LPA",
+        "fees": "INR 5,000 per annum",
+        "desc": "A recognized university offering a wide range of academic programs."
+    },
+    {
+        "name": "Savitribai Phule Pune University",
+        "city": "Pune",
+        "rank": 25,
+        "state": "Maharashtra",
+        "averageplacement": "INR 6 LPA",
+        "fees": "INR 10,000 per annum",
+        "desc": "One of the premier universities in Maharashtra, known for its academic diversity."
+    },
+    {
+        "name": "Indian Institute of Science Education & Research, Pune",
+        "city": "Pune",
+        "rank": 26,
+        "state": "Maharashtra",
+        "averageplacement": "INR 5 LPA",
+        "fees": "INR 20,000 per annum",
+        "desc": "An institute dedicated to scientific research and education."
+    },
+    {
+        "name": "National Institute of Technology Karnataka, Surathkal ",
+        "city": "Surathkal",
+        "rank": 27,
+        "state": "Karnataka",
+        "averageplacement": "INR 7.5 LPA",
+        "fees": "INR 1.36 LPA",
+        "desc": "A premier engineering institute offering undergraduate and postgraduate programs."
+    },
+    {
+        "name": "Institute of Chemical Technology",
+        "city": "Mumbai",
+        "rank": 28,
+        "state": "Maharashtra",
+        "averageplacement": "INR 7 LPA",
+        "fees": "INR 1.5 LPA",
+        "desc": "An autonomous institute known for its excellence in chemical engineering and technology."
+    },
+    {
+        "name": "Indian Institute of Technology (Banaras Hindu University) Varanasi",
+        "city": "Varanasi",
+        "rank": 29,
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 6 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "An integral part of Banaras Hindu University, offering quality engineering education."
+    },
+    {
+        "name": "Siksha `O` Anusandhan",
+        "city": "Bhubaneswar",
+        "rank": 30,
+        "state": "Odisha",
+        "averageplacement": "INR 6.5 LPA",
+        "fees": "INR 3 LPA",
+        "desc": "A deemed university known for its academic excellence in various disciplines."
+    },
+    {
+        "name": "Indian Institute of Technology Indore",
+        "city": "Indore",
+        "rank": 31,
+        "state": "Madhya Pradesh",
+        "averageplacement": "INR 13 LPA",
+        "fees": "INR 2 LPA",
+        "desc": "An institute of national importance known for its academic rigor and research facilities."
+    },
+    {
+        "name": "Birla Institute of Technology & Science - Pilani",
+        "city": "Pilani",
+        "rank": 32,
+        "state": "Rajasthan",
+        "averageplacement": "INR 11 LPA",
+        "fees": "INR 4.4 LPA",
+        "desc": "One of the premier engineering institutes in India, known for its rigorous curriculum."
+    },
+    {
+        "name": "Homi Bhabha National Institute",
+        "city": "Mumbai",
+        "rank": 33,
+        "state": "Maharashtra",
+        "averageplacement": "INR 10 LPA",
+        "fees": "INR 10,000 per annum",
+        "desc": "An institute dedicated to nuclear science and technology research."
+    },
+    {
+        "name": "Kalinga Institute of Industrial Technology",
+        "city": "Bhubaneswar",
+        "rank": 34,
+        "state": "Odisha",
+        "averageplacement": "INR 6 LPA",
+        "fees": "INR 3.5 LPA",
+        "desc": "A deemed university known for its engineering and management programs."
+    },
+    {
+        "name": "Indian Institute of Technology Ropar",
+        "city": "Rupnagar",
+        "rank": 35,
+        "state": "Punjab",
+        "averageplacement": "INR 12 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "One of the new IITs, known for its rapid growth and academic excellence."
+    },
+    {
+        "name": "S.R.M. Institute of Science and Technology",
+        "city": "Chennai",
+        "rank": 36,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 5.5 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "A deemed university offering a wide range of programs in engineering and technology."
+    },
+    {
+        "name": "Indian Institute of Technology, Gandhinagar",
+        "city": "Gandhinagar",
+        "rank": 37,
+        "state": "Gujarat",
+        "averageplacement": "INR 11 LPA",
+        "fees": "INR 2.3 LPA",
+        "desc": "An IIT known for its focus on research and innovation."
+    },
+    {
+        "name": "Indian Institute of Technology (Indian School of Mines)",
+        "city": "Dhanbad",
+        "rank": 38,
+        "state": "Jharkhand",
+        "averageplacement": "INR 11 LPA",
+        "fees": "INR 2.2 LPA",
+        "desc": "A prestigious institute offering courses in engineering, management, and applied sciences."
+    },
+    {
+        "name": "National Institute of Technology Rourkela",
+        "city": "Rourkela",
+        "rank": 39,
+        "state": "Odisha",
+        "averageplacement": "INR 7.5 LPA",
+        "fees": "INR 2 LPA",
+        "desc": "One of the leading NITs in India, known for its quality education and research facilities."
+    },
+    {
+        "name": "Indian Institute of Science Education & Research, Kolkata",
+        "city": "Mohanpur",
+        "rank": 40,
+        "state": "West Bengal",
+        "averageplacement": "INR 5.5 LPA",
+        "fees": "INR 20,000 per annum",
+        "desc": "An institute dedicated to the pursuit of scientific research and education."
+    },
+    {
+        "name": "Panjab University",
+        "city": "Chandigarh",
+        "rank": 41,
+        "state": "Chandigarh",
+        "averageplacement": "INR 5 LPA",
+        "fees": "INR 5,000 per annum",
+        "desc": "A renowned university known for its academic excellence and research contributions."
+    },
+    {
+        "name": "Amity University",
+        "city": "Gautam Budh Nagar",
+        "rank": 42,
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 4.5 LPA",
+        "fees": "INR 3.11 LPA",
+        "desc": "A private university known for its wide range of programs and modern infrastructure."
+    },
+    {
+        "name": "Indian Institute of Technology, Mandi",
+        "city": "Mandi",
+        "rank": 43,
+        "state": "Himachal Pradesh",
+        "averageplacement": "INR 10 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "An IIT known for its picturesque campus and academic excellence."
+    },
+    {
+        "name": "Saveetha Institute of Medical and Technical Sciences",
+        "city": "Chennai",
+        "rank": 44,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 7 LPA",
+        "fees": "INR 3 LPA",
+        "desc": "An institute offering medical and technical education with modern facilities."
+    },
+    {
+        "name": "National Institute of Technology Warangal",
+        "city": "Warangal",
+        "rank": 45,
+        "state": "Telangana",
+        "averageplacement": "INR 9 LPA",
+        "fees": "INR 1.37 LPA",
+        "desc": "One of the premier NITs in India, known for its excellent engineering education."
+    },
+    {
+        "name": "Osmania University",
+        "city": "Hyderabad",
+        "rank": 46,
+        "state": "Telangana",
+        "averageplacement": "INR 6 LPA",
+        "fees": "INR 3,000 per annum",
+        "desc": "A renowned university offering a wide range of undergraduate and postgraduate programs."
+    },
+    {
+        "name": "Indian Institute of Science Education & Research, Mohali",
+        "city": "Mohali",
+        "rank": 47,
+        "state": "Punjab",
+        "averageplacement": "INR 6.5 LPA",
+        "fees": "INR 30,000 per annum",
+        "desc": "An institute dedicated to scientific research and education."
+    },
+    {
+        "name": "Chandigarh University",
+        "city": "Mohali",
+        "rank": 48,
+        "state": "Punjab",
+        "averageplacement": "INR 5.5 LPA",
+        "fees": "INR 1.6 LPA",
+        "desc": "A private university known for its academic diversity and modern infrastructure."
+    },
+    {
+        "name": "Shanmugha Arts Science Technology & Research Academy",
+        "city": "Thanjavur",
+        "rank": 49,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 4.5 LPA",
+        "fees": "INR 1.6 LPA",
+        "desc": "A deemed university offering a wide range of academic programs."
+    },
+    {
+        "name": "Kalasalingam Academy of Research and Education",
+        "city": "Srivilliputtur",
+        "rank": 50,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 4.8 LPA",
+        "fees": "INR 2.1 LPA",
+        "desc": "An institute known for its quality education and research contributions."
+    },
+    {
+        "name": "Mahatma Gandhi University, Kottayam",
+        "city": "Kottayam",
+        "rank": 51,
+        "state": "Kerala",
+        "averageplacement": "INR 4 LPA",
+        "fees": "INR 4,000 per annum",
+        "desc": "A renowned university offering a wide range of undergraduate and postgraduate programs."
+    },
+    {
+        "name": "Kerala University",
+        "city": "Thiruvananthapuram",
+        "rank": 52,
+        "state": "Kerala",
+        "averageplacement": "INR 4 LPA",
+        "fees": "INR 10,000 per annum",
+        "desc": "A prestigious university known for its academic excellence and research contributions."
+    },
+    {
+        "name": "Alagappa University",
+        "city": "Karaikudi",
+        "rank": 53,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 3.5 LPA",
+        "fees": "INR 4,000 per annum",
+        "desc": "A renowned university offering a wide range of academic programs."
+    },
+    {
+        "name": "Visvesvaraya National Institute of Technology, Nagpur",
+        "city": "Nagpur",
+        "rank": 54,
+        "state": "Maharashtra",
+        "averageplacement": "INR 6.5 LPA",
+        "fees": "INR 1.38 LPA",
+        "desc": "One of the premier NITs in India, known for its excellent engineering education."
+    },
+    {
+        "name": "Bharathidasan University",
+        "city": "Tiruchirappalli",
+        "rank": 55,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 3.5 LPA",
+        "fees": "INR 6,000 per annum",
+        "desc": "A recognized university offering a wide range of academic programs."
+    },
+    {
+        "name": "Sathyabama Institute of Science and Technology",
+        "city": "Chennai",
+        "rank": 56,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 5.5 LPA",
+        "fees": "INR 3 LPA",
+        "desc": "An institute known for its engineering and technology programs."
+    },
+    {
+        "name": "Thapar Institute of Engineering & Technology",
+        "city": "Patiala",
+        "rank": 57,
+        "state": "Punjab",
+        "averageplacement": "INR 7 LPA",
+        "fees": "INR 3.3 LPA",
+        "desc": "A renowned engineering institute known for its academic excellence and industry partnerships."
+    },
+    {
+        "name": "Indian Institute of Engineering Science and Technology, Shibpur",
+        "city": "Shibpur",
+        "rank": 58,
+        "state": "West Bengal",
+        "averageplacement": "INR 8 LPA",
+        "fees": "INR 1.1 LPA",
+        "desc": "An institute known for its engineering and technology programs."
+    },
+    {
+        "name": "National Institute of Technology Calicut",
+        "city": "Calicut",
+        "rank": 59,
+        "state": "Kerala",
+        "averageplacement": "INR 7 LPA",
+        "fees": "INR 1.36 LPA",
+        "desc": "One of the premier NITs in India, known for its excellent engineering education."
+    },
+    {
+        "name": "Punjab Engineering College (Deemed To Be University), Chandigarh",
+        "city": "Chandigarh",
+        "rank": 60,
+        "state": "Chandigarh",
+        "averageplacement": "INR 6.5 LPA",
+        "fees": "INR 3.34 LPA",
+        "desc": "A deemed university known for its engineering and technology programs."
+    },
+    {
+        "name": "Lovely Professional University",
+        "city": "Phagwara",
+        "rank": 61,
+        "state": "Punjab",
+        "averageplacement": "INR 5.2 LPA",
+        "fees": "INR 1.6 LPA",
+        "desc": "A large university offering a diverse range of programs and modern facilities."
+    },
+    {
+        "name": "Indian Institute of Technology, Patna",
+        "city": "Patna",
+        "rank": 62,
+        "state": "Bihar",
+        "averageplacement": "INR 9 LPA",
+        "fees": "INR 2.3 LPA",
+        "desc": "An IIT known for its academic rigor and industry-oriented programs."
+    },
+    {
+        "name": "JSS Academy of Higher Education and Research",
+        "city": "Mysuru",
+        "rank": 63,
+        "state": "Karnataka",
+        "averageplacement": "INR 4.8 LPA",
+        "fees": "INR 2.1 LPA",
+        "desc": "An institute offering a wide range of programs in engineering and management."
+    },
+    {
+        "name": "Indian Institute of Science Education & Research Bhopal",
+        "city": "Bhopal",
+        "rank": 64,
+        "state": "Madhya Pradesh",
+        "averageplacement": "INR 6.5 LPA",
+        "fees": "INR 40,000 per annum",
+        "desc": "A premier institute dedicated to scientific research and education."
+    },
+    {
+        "name": "Symbiosis International",
+        "city": "Pune",
+        "rank": 65,
+        "state": "Maharashtra",
+        "averageplacement": "INR 6 LPA",
+        "fees": "INR 3.5 LPA",
+        "desc": "A renowned institution offering a wide range of programs in various disciplines."
+    },
+    {
+        "name": "Delhi Technological University",
+        "city": "New Delhi",
+        "rank": 66,
+        "state": "Delhi",
+        "averageplacement": "INR 8 LPA",
+        "fees": "INR 1 LPA",
+        "desc": "A leading technical university known for its engineering programs."
+    },
+    {
+        "name": "Gauhati University",
+        "city": "Guwahati",
+        "rank": 67,
+        "state": "Assam",
+        "averageplacement": "INR 4.2 LPA",
+        "fees": "INR 2,000 per annum",
+        "desc": "A renowned university offering a wide range of undergraduate and postgraduate programs."
+    },
+    {
+        "name": "Indian Institute of Technology Bhubaneswar",
+        "city": "Bhubaneswar",
+        "rank": 68,
+        "state": "Odisha",
+        "averageplacement": "INR 8.5 LPA",
+        "fees": "INR 2.3 LPA",
+        "desc": "An IIT known for its research-focused programs and modern infrastructure."
+    },
+    {
+        "name": "Indian Institute of Engineering Science and Technology, Shibpur",
+        "city": "Howrah",
+        "rank": 69,
+        "state": "West Bengal",
+        "averageplacement": "INR 6.8 LPA",
+        "fees": "INR 2.5 LPA",
+        "desc": "An institute offering a wide range of engineering and technology programs."
+    },
+    {
+        "name": "Sathyabama Institute of Science and Technology",
+        "city": "Chennai",
+        "rank": 70,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 6.2 LPA",
+        "fees": "INR 2.8 LPA",
+        "desc": "A deemed university offering programs in engineering, technology, and management."
+    },
+    {
+        "name": "Visvesvaraya National Institute of Technology, Nagpur",
+        "city": "Nagpur",
+        "rank": 71,
+        "state": "Maharashtra",
+        "averageplacement": "INR 7.5 LPA",
+        "fees": "INR 1.5 LPA",
+        "desc": "One of the premier NITs in India, known for its excellent engineering education."
+    },
+    {
+        "name": "Cochin University of Science and Technology",
+        "city": "Cochin",
+        "rank": 72,
+        "state": "Kerala",
+        "averageplacement": "INR 5 LPA",
+        "fees": "INR 20,000 per annum",
+        "desc": "A renowned university offering a wide range of programs in science and technology."
+    },
+    {
+        "name": "University of Madras",
+        "city": "Chennai",
+        "rank": 73,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 4.5 LPA",
+        "fees": "INR 8,000 per annum",
+        "desc": "A prestigious university offering a wide range of undergraduate and postgraduate programs."
+    },
+    {
+        "name": "Andhra University, Visakhapatnam",
+        "city": "Visakhapatnam",
+        "rank": 74,
+        "state": "Andhra Pradesh",
+        "averageplacement": "INR 4 LPA",
+        "fees": "INR 10,000 per annum",
+        "desc": "A renowned university offering programs in various disciplines."
+    },
+    {
+        "name": "National Institute of Technology Durgapur",
+        "city": "Durgapur",
+        "rank": 75,
+        "state": "West Bengal",
+        "averageplacement": "INR 6 LPA",
+        "fees": "INR 1.5 LPA",
+        "desc": "One of the premier NITs in India, known for its excellent engineering education."
+    },
+    {
+        "name": "Gujarat University",
+        "city": "Ahmedabad",
+        "rank": 76,
+        "state": "Gujarat",
+        "averageplacement": "INR 4.2 LPA",
+        "fees": "INR 5,000 per annum",
+        "desc": "A leading university offering a wide range of programs in various disciplines."
+    },
+    {
+        "name": "Jamia Hamdard",
+        "city": "New Delhi",
+        "rank": 77,
+        "state": "Delhi",
+        "averageplacement": "INR 5 LPA",
+        "fees": "INR 2 LPA",
+        "desc": "A renowned institution offering programs in medicine and allied health sciences."
+    },
+    {
+        "name": "King George`s Medical University",
+        "city": "Lucknow",
+        "rank": 78,
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 6 LPA",
+        "fees": "INR 20,000 per annum",
+        "desc": "A prestigious medical university offering undergraduate and postgraduate programs."
+    },
+    {
+        "name": "Dr. D Y Patil Vidyapeeth",
+        "city": "Pune",
+        "rank": 79,
+        "state": "Maharashtra",
+        "averageplacement": "INR 5.5 LPA",
+        "fees": "INR 3 LPA",
+        "desc": "A deemed university offering programs in medicine, dentistry, and allied health sciences."
+    },
+    {
+        "name": "National Institute of Technology, Silchar",
+        "city": "Silchar",
+        "rank": 80,
+        "state": "Assam",
+        "averageplacement": "INR 5.8 LPA",
+        "fees": "INR 1.5 LPA",
+        "desc": "One of the premier NITs in India, known for its excellent engineering education."
+    },
+    {
+        "name": "Babasheb Bhimrao Ambedkar University",
+        "city": "Lucknow",
+        "rank": 81,
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 3.5 LPA",
+        "fees": "INR 15,000 per annum",
+        "desc": "A leading university offering a wide range of programs in various disciplines."
+    },
+    {
+        "name": "Indian Institute of Management Kozhikode",
+        "city": "Kozhikode",
+        "rank": 82,
+        "state": "Kerala",
+        "averageplacement": "INR 20 LPA",
+        "fees": "INR 7 LPA",
+        "desc": "One of the premier IIMs in India, known for its management programs and industry connections."
+    },
+    {
+        "name": "Guru Nanak Dev University",
+        "city": "Amritsar",
+        "rank": 83,
+        "state": "Punjab",
+        "averageplacement": "INR 4.5 LPA",
+        "fees": "INR 30,000 per annum",
+        "desc": "A renowned university offering a wide range of undergraduate and postgraduate programs."
+    },
+    {
+        "name": "Mumbai University",
+        "city": "Mumbai",
+        "rank": 84,
+        "state": "Maharashtra",
+        "averageplacement": "INR 5 LPA",
+        "fees": "INR 8,000 per annum",
+        "desc": "One of the oldest universities in India, offering programs in various disciplines."
+    },
+    {
+        "name": "Bharathidasan University",
+        "city": "Tiruchirappalli",
+        "rank": 85,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 3 LPA",
+        "fees": "INR 6,000 per annum",
+        "desc": "A renowned university offering a wide range of academic programs."
+    },
+    {
+        "name": "Sri Ramachandra Institute of Higher Education and Research",
+        "city": "Chennai",
+        "rank": 86,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 8 LPA",
+        "fees": "INR 10 LPA",
+        "desc": "A deemed university known for its medical and health sciences programs."
+    },
+    {
+        "name": "University of Kashmir",
+        "city": "Srinagar",
+        "rank": 87,
+        "state": "Jammu and Kashmir",
+        "averageplacement": "INR 3.2 LPA",
+        "fees": "INR 5,000 per annum",
+        "desc": "A leading university offering a wide range of undergraduate and postgraduate programs."
+    },
+    {
+        "name": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+        "city": "Jalandhar",
+        "rank": 88,
+        "state": "Punjab",
+        "averageplacement": "INR 6.5 LPA",
+        "fees": "INR 1.5 LPA",
+        "desc": "One of the premier NITs in India, known for its excellent engineering education."
+    },
+    {
+        "name": "All India Institute of Medical Sciences Jodhpur",
+        "city": "Jodhpur",
+        "rank": 89,
+        "state": "Rajasthan",
+        "averageplacement": "INR 12 LPA",
+        "fees": "INR 6,000 per annum",
+        "desc": "A prestigious medical institute known for its academic excellence and research facilities."
+    },
+    {
+        "name": "Banasthali Vidyapith",
+        "city": "Banasthali",
+        "rank": 90,
+        "state": "Rajasthan",
+        "averageplacement": "INR 4.5 LPA",
+        "fees": "INR 1.5 LPA",
+        "desc": "A deemed university known for its focus on women's education and holistic development."
+    },
+    {
+        "name": "Madurai Kamaraj University",
+        "city": "Madurai",
+        "rank": 91,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 3.5 LPA",
+        "fees": "INR 7,000 per annum",
+        "desc": "A renowned university offering a wide range of academic programs."
+    },
+    {
+        "name": "SVKM`s Narsee Monjee Institute of Management Studies",
+        "city": "Mumbai",
+        "rank": 92,
+        "state": "Maharashtra",
+        "averageplacement": "INR 18 LPA",
+        "fees": "INR 9 LPA",
+        "desc": "A premier management institute known for its academic rigor and industry placements."
+    },
+    {
+        "name": "Tezpur University",
+        "city": "Tezpur",
+        "rank": 93,
+        "state": "Assam",
+        "averageplacement": "INR 5 LPA",
+        "fees": "INR 50,000 per annum",
+        "desc": "A central university known for its academic excellence and research activities."
+    },
+    {
+        "name": "Malaviya National Institute of Technology",
+        "city": "Jaipur",
+        "rank": 94,
+        "state": "Rajasthan",
+        "averageplacement": "INR 6.5 LPA",
+        "fees": "INR 1.5 LPA",
+        "desc": "One of the premier NITs in India, known for its excellent engineering education."
+    },
+    {
+        "name": "Datta Meghe Institute of Medical Sciences",
+        "city": "Wardha",
+        "rank": 95,
+        "state": "Maharashtra",
+        "averageplacement": "INR 8 LPA",
+        "fees": "INR 15 LPA",
+        "desc": "A deemed university known for its medical and health sciences programs."
+    },
+    {
+        "name": "University of Calicut",
+        "city": "Calicut",
+        "rank": 96,
+        "state": "Kerala",
+        "averageplacement": "INR 3.2 LPA",
+        "fees": "INR 6,000 per annum",
+        "desc": "A renowned university offering a wide range of academic programs."
+    },
+    {
+        "name": "National Institute of Technology, Agartala",
+        "city": "Agartala",
+        "rank": 97,
+        "state": "Tripura",
+        "averageplacement": "INR 5.5 LPA",
+        "fees": "INR 1.5 LPA",
+        "desc": "One of the premier NITs in India, known for its excellent engineering education."
+    },
+    {
+        "name": "Saveetha Institute of Medical and Technical Sciences",
+        "city": "Chennai",
+        "rank": 98,
+        "state": "Tamil Nadu",
+        "averageplacement": "INR 9 LPA",
+        "fees": "INR 18 LPA",
+        "desc": "A deemed university known for its medical and health sciences programs."
+    },
+    {
+        "name": "National Institute of Technology, Manipur",
+        "city": "Imphal",
+        "rank": 99,
+        "state": "Manipur",
+        "averageplacement": "INR 5 LPA",
+        "fees": "INR 1.5 LPA",
+        "desc": "One of the premier NITs in India, known for its excellent engineering education."
+    },
+    {
+        "name": "Aligarh Muslim University",
+        "city": "Aligarh",
+        "rank": 100,
+        "state": "Uttar Pradesh",
+        "averageplacement": "INR 4.5 LPA",
+        "fees": "INR 20,000 per annum",
+        "desc": "A renowned university offering a wide range of academic programs."
+    }
+]
+

@@ -1,0 +1,116 @@
+[
+    {
+        "name": "TAMIL NADU AGRICULTURAL UNIVERSITY",
+        "city": "COIMBATORE",
+        "state": "TAMIL NADU",
+        "rank": 1
+    },
+    {
+        "name": "ACHARYA NG RANGA AGRICULTURAL UNIVERSITY ",
+        "city": "GUNTUR",
+        "state": "ANDHRA PRADESH",
+        "rank": 2
+    },
+    {
+        "name": "PUNJAB AGRICULTURAL UNIVERSITY -",
+        "city": "LUDHIANA",
+        "state": "PUNJAB",
+        "rank": 3
+    },
+    {
+        "name": "ANBIL DHARMALINGAM AGRICULTURAL COLLEGE AND RESEARCH INSTITUTE ",
+        "city": "TIRUCHIRAPPALLI,",
+        "state": "TAMIL NADU",
+        "rank": 4
+    },
+    {
+        "name": "GOVIND BALLABH PANT UNIVERSITY OF AGRICULTURE AND TECHNOLOGY",
+        "city": "PANTNAGAR",
+        "state": "UTTARAKHAND",
+        "rank": 5
+    },
+    {
+        "name": "MAHATMA PHULE KRISHI VIDYAPEETH",
+        "city": "PUNE",
+        "state": "MAHARASHTRA",
+        "rank": 6
+    },
+    {
+        "name": "BIRSA AGRICULTURAL UNIVERSITY",
+        "city": "RANCHI",
+        "state": "JHARKHAND",
+        "rank": 7
+    },
+    {
+        "name": "DR. RAJENDRA PRASAD CENTRAL AGRICULTURAL UNIVERSITY",
+        "city": "SAMASTIPUR",
+        "state": "BIHAR",
+        "rank": 8
+    },
+    {
+        "name": "JUNAGADH AGRICULTURAL UNIVERSITY",
+        "city": "JUNAGADH",
+        "state": "GUJARAT ",
+        "rank": 9
+    },
+    {
+        "name": "DR DY PATIL COLLEGE OF AGRICULTURE BUSINESS MANAGEMENT",
+        "city": "PUNE",
+        "state": "MAHARASHTRA",
+        "rank": 10
+    },
+    {
+        "name": "SAM HIGGINBOTTOM UNIVERSITY OF AGRICULTURE TECHNOLOGY AND SCIENCES",
+        "city": "ALLAHABAD",
+        "state": "UTTAR PRADESH",
+        "rank": 11
+    },
+    {
+        "name": "MAHATMA JYOTI RAO PHOOLE UNIVERSITY ",
+        "city": "JAIPUR",
+        "state": "RAJASTHAN",
+        "rank": 12
+    },
+    {
+        "name": "JAWAHARLAL NEHRU KRISHI VISHWA VIDYALAYA ",
+        "city": "JABALPUR",
+        "state": "MADHYA PRADESH",
+        "rank": 13
+    },
+    {
+        "name": "KHALSA COLLEGE",
+        "city": "AMRITSAR",
+        "state": "PUNJAB",
+        "rank": 14
+    },
+    {
+        "name": "INDIRA GANDHI KRISHI VISHWAVIDYALAYA ",
+        "city": "RAIPUR",
+        "state": "CHHATTISGARH",
+        "rank": 15
+    },
+    {
+        "name": "YASHWANTRAO CHAVAN MAHARASHTRA OPEN UNIVERSITY",
+        "city": "NASHIK",
+        "state": "MAHARASHTRA",
+        "rank": 16
+    },
+    {
+        "name": "VANAVARAYAR INSTITUTE OF AGRICULTURE",
+        "city": "POLLACHI",
+        "state": "TAMIL NADU",
+        "rank": 17
+    },
+    {
+        "name": "ANAND NIKETAN COLLEGE OF AGRICULTURE",
+        "city": "CHANDRAPUR",
+        "state": "MAHARASHTRA",
+        "rank": 18
+    },
+    {
+        "name": "UTTAR BANGA KRISHI VISHWAVIDYALAYA ",
+        "city": "COOCH BEHAR",
+        "state": "WEST BENGAL",
+        "rank": 19
+    }
+]
